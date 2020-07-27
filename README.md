@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+
+
 <!--
 **jacobduijzer/jacobduijzer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-## More from me 🌎:
+### More from me 🌎:
 - <a href="https://blog.duijzer.com">Blog</a> 🏓
 - <a href="https://www.linkedin.com/in/jacobduijzer/">LinkedIn</a> 💼
