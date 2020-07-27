@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+## Find me around the web 🌎: <a href="https://blog.duijzer.com"><img align="left" width="150" height="150" src="https://avatars2.githubusercontent.com/u/1770444?s=460&u=aa9f316a85ff1bb1e93d9123040d22caac5f0667&v=4"></a>
+- <a href="https://blog.duijzer.com">Blog</a> 🏓
+- <a href="https://www.linkedin.com/in/jacobduijzer/">LinkedIn</a> 💼
