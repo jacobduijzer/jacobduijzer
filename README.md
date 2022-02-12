@@ -1,4 +1,10 @@
-### Hi there 👋
+## About me
+
+## Follow me
+
+* [blog](https://blog.duijzer.com)
+* [LinkedIn](https://linkedin.com/in/jacobduijzer)
+
 
 
 
@@ -17,6 +23,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-### More from me 🌎:
-- <a href="https://blog.duijzer.com">Blog</a> 🏓
-- <a href="https://www.linkedin.com/in/jacobduijzer/">LinkedIn</a> 💼
