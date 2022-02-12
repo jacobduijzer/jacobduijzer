@@ -1,6 +1,7 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jacobduijzer) 
 [![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://www.twitter.com/jacobduijzer)
-[![Twitter](https://img.shields.io/static/v1?logo=hugo&message=Blog&style=for-the-badge&logoColor=white)](https://blog.duijzer.com)
+[![Blog](https://img.shields.io/static/v1?logo=hugo&message=Blog&style=for-the-badge&logoColor=white)](https://blog.duijzer.com)
+[![Buy me a coffee](https://img.shields.io/static/v1?logo=buymeacoffee&message=Buy me a coffee&style=for-the-badge&logoColor=white)](https://www.buymeacoffee.com/jacobduijzer)
 
 ## About me
 
