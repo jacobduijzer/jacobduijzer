@@ -21,5 +21,5 @@ I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and 
 * [The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/B08X7MNTCX/ref=mp_s_a_1_1?crid=14A8O8H8Q8Q38&keywords=the+clean+coder&qid=1644644523&sprefix=The+clea%2Caps%2C202&sr=8-1) 
 
 
-![](https://komarev.com/ghpvc/?username=jacobduijzer&color=orange)
+![](https://komarev.com/ghpvc/?username=jacobduijzer&color=blue)
 
