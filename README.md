@@ -5,7 +5,7 @@
 
 ### About me
 
-I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and sharing knowledge. Currently I work for [Team Rockstars IT](https://www.teamrockstars.nl) as a consultant. I like to learn new technologies and share knowledge with others. I am especially happy when I can work together with a team, helping them grow. 
+I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and sharing knowledge. I am working for [Team Rockstars IT](https://www.teamrockstars.nl) as an IT consultant, focussing on engineering practices. I like to learn new technologies and to share knowledge with others. I am especially happy when I can work together with a team, helping them grow. 
 
 ### My latest blog posts
 * [Een monoliet? Nee, dat hebben wij niet meer!](https://blog.duijzer.com/nl/posts/team_topologiesmonolieten/)
