@@ -13,9 +13,11 @@ I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and 
 * [Using an Arduino with Xamarin for Mac](https://blog.duijzer.com/posts/xamarin-mac-arduino/) 
 * [Retry and fallback policies in C# with Polly](https://blog.duijzer.com/posts/polly-refit/) 
 
-### My favorite books
+### Some of my favorite books
 
 * [Extreme Ownership, How U.S. Navy Seals Lead and Win by Jocko Willink](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057) 
+* [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=mp_s_a_1_2?crid=1EVOOBNAIHJF1&keywords=Accelerate%3A+The+Science+of+Lean+Software+and+DevOps%3A+Building+and+Scaling+High+Performing+Technology+Organizations&qid=1660453284&sprefix=accelerate+the+science+of+lean+software+and+devops+building+and+scaling+high+performing+technology+organizations%2Caps%2C176&sr=8-2)
+* [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://teamtopologies.com/book)
 * [Code That Fits in Your Head : Heuristics for Software Engineering by Mark Seemann](https://www.amazon.com/Code-That-Fits-Your-Head/dp/0137464401) 
 * [Clean Code: A Handbook of Agile Software Craftsmanship by Robert. C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=mp_s_a_1_1?crid=2OU3F4DUZEPWT&keywords=clean+code&qid=1644644340&s=books&sprefix=Clean+code%2Cstripbooks%2C192&sr=1-1) 
 * [The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/B08X7MNTCX/ref=mp_s_a_1_1?crid=14A8O8H8Q8Q38&keywords=the+clean+coder&qid=1644644523&sprefix=The+clea%2Caps%2C202&sr=8-1) 
