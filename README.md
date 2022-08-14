@@ -30,6 +30,13 @@ I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and 
 * [Clean Code: A Handbook of Agile Software Craftsmanship by Robert. C. Martin](https://www.amazon.com/Clean-Code-Handbook-Software-Craftsmanship/dp/0132350882/ref=mp_s_a_1_1?crid=2OU3F4DUZEPWT&keywords=clean+code&qid=1644644340&s=books&sprefix=Clean+code%2Cstripbooks%2C192&sr=1-1) 
 * [The Clean Coder: A Code of Conduct for Professional Programmers by Robert C. Martin](https://www.amazon.com/Clean-Coder-Conduct-Professional-Programmers/dp/B08X7MNTCX/ref=mp_s_a_1_1?crid=14A8O8H8Q8Q38&keywords=the+clean+coder&qid=1644644523&sprefix=The+clea%2Caps%2C202&sr=8-1) 
 
+### External talks & publications
+
+* [Managing a .NET Service with Blazor, on Windows and Linux](https://medium.com/team-rockstars-it/managing-a-net-service-with-blazor-on-windows-and-linux-c54337ef1d07)
+* [CHAOS ENGINEERING MET SIMMY & POLLY](https://www.teamrockstars.nl/developers/tech-burst/chaos-engineering-met-simmy-polly/)
+* [Dutch SDN Cast Rebooted 203 met Jacob Duijzer over Chaos engineering met Simmy en Polly
+](https://www.youtube.com/watch?v=YXq9PTq-2Dw&list=PLC5P51a_60YH91NE65bmUXgVxPsfCaxtC&index=7)
+* [SPECIFICATION BY EXAMPLE](https://www.teamrockstars.nl/on-demand/specification-by-example/)
 
 ![](https://komarev.com/ghpvc/?username=jacobduijzer&color=blue)
 
