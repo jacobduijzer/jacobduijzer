@@ -7,6 +7,13 @@
 
 I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and sharing knowledge. Currently I work for [Team Rockstars IT](https://www.teamrockstars.nl) as a consultant. I like to learn new technologies and share knowledge with others. I am especially happy when I can work together with a team, helping them grow. 
 
+### My latest blog posts
+* [Een monoliet? Nee, dat hebben wij niet meer!](https://blog.duijzer.com/nl/posts/team_topologiesmonolieten/)
+* [Diagrammen maken met Mermaid](https://blog.duijzer.com/nl/posts/diagrammen_maken_met_mermaid/)
+* [Chaos Engineering met Simmy & Polly](https://blog.duijzer.com/nl/posts/chaos-engineering-met-polly-en-simmy/)
+* [Using multiple Git accounts](https://blog.duijzer.com/posts/using-multiple-git-accounts/)
+* [Using an Azure Web App to host multiple static html sites](https://blog.duijzer.com/posts/hosting-multiple-static-sites-in-azure/)
+
 ### My favorite blog posts
 
 * [Using xUnit fixtures with SpecFlow](https://blog.duijzer.com/posts/specflow-xunit-fixtures/) 
