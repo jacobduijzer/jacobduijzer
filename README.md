@@ -12,6 +12,7 @@ I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and 
 * [Using xUnit fixtures with SpecFlow](https://blog.duijzer.com/posts/specflow-xunit-fixtures/) 
 * [Using an Arduino with Xamarin for Mac](https://blog.duijzer.com/posts/xamarin-mac-arduino/) 
 * [Retry and fallback policies in C# with Polly](https://blog.duijzer.com/posts/polly-refit/) 
+* [Een monoliet? Nee, dat hebben wij niet meer!](https://blog.duijzer.com/nl/posts/team_topologiesmonolieten/)
 
 ### Some of my favorite books
 
