@@ -23,6 +23,7 @@ I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and 
 
 ### Some of my favorite books
 
+* [The Five Dysfunctions of a Team: A Leadership Fable: A Leadership Fable](https://www.amazon.nl/Five-Dysfunctions-Team-Leadership-Anniversary/dp/0787960756?crid=OOF7W1LCYU6W&keywords=five+dysfunctions+of+a+team&qid=1666462568&qu=eyJxc2MiOiIwLjc2IiwicXNhIjoiMC4wMCIsInFzcCI6IjAuMDAifQ%3D%3D&sprefix=five+d%2Caps%2C83&sr=8-1&linkCode=sl1&tag=jacobduijzer-21&linkId=b355a46a52ce61bd701f555703bc5fc4&language=nl_NL&ref_=as_li_ss_tl)
 * [Extreme Ownership, How U.S. Navy Seals Lead and Win by Jocko Willink](https://www.amazon.com/Extreme-Ownership-U-S-Navy-SEALs/dp/1250067057) 
 * [Accelerate: The Science of Lean Software and DevOps: Building and Scaling High Performing Technology Organizations](https://www.amazon.com/Accelerate-Software-Performing-Technology-Organizations/dp/1942788339/ref=mp_s_a_1_2?crid=1EVOOBNAIHJF1&keywords=Accelerate%3A+The+Science+of+Lean+Software+and+DevOps%3A+Building+and+Scaling+High+Performing+Technology+Organizations&qid=1660453284&sprefix=accelerate+the+science+of+lean+software+and+devops+building+and+scaling+high+performing+technology+organizations%2Caps%2C176&sr=8-2)
 * [Team Topologies: Organizing Business and Technology Teams for Fast Flow](https://teamtopologies.com/book)
