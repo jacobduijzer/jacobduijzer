@@ -8,6 +8,7 @@
 I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and sharing knowledge. I am working for [Team Rockstars IT](https://www.teamrockstars.nl) as an IT consultant, focussing on engineering practices. I like to learn new technologies and to share knowledge with others. I am especially happy when I can work together with a team, helping them grow. 
 
 ### My latest blog posts
+* [Groeien door fouten te maken](https://blog.duijzer.com/nl/posts/groeien-door-fouten/)
 * [Een monoliet? Nee, dat hebben wij niet meer!](https://blog.duijzer.com/nl/posts/team_topologiesmonolieten/)
 * [Diagrammen maken met Mermaid](https://blog.duijzer.com/nl/posts/diagrammen_maken_met_mermaid/)
 * [Chaos Engineering met Simmy & Polly](https://blog.duijzer.com/nl/posts/chaos-engineering-met-polly-en-simmy/)
@@ -33,6 +34,7 @@ I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and 
 
 ### External talks & publications
 
+* [Chaos Engineering: Unleash the Monkeys (JetBrains .NET Days 2022)](https://www.youtube.com/watch?v=3ycHJwx0Itg)
 * [Managing a .NET Service with Blazor, on Windows and Linux](https://medium.com/team-rockstars-it/managing-a-net-service-with-blazor-on-windows-and-linux-c54337ef1d07)
 * [CHAOS ENGINEERING MET SIMMY & POLLY](https://www.teamrockstars.nl/developers/tech-burst/chaos-engineering-met-simmy-polly/)
 * [Dutch SDN Cast Rebooted 203 met Jacob Duijzer over Chaos engineering met Simmy en Polly
