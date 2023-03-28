@@ -8,6 +8,7 @@
 I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and sharing knowledge. I am working for [Team Rockstars IT](https://www.teamrockstars.nl) as an IT consultant, focussing on engineering practices. I like to learn new technologies and to share knowledge with others. I am especially happy when I can work together with a team, helping them grow. 
 
 ### My latest blog posts
+* [Architectuur design met het C4-model (Dutch)](https://blog.duijzer.com/nl/posts/architectuur-design-met-c4model/)
 * [My favorite books in 2022](https://blog.duijzer.com/posts/favorite-books-of-2022/)
 * [Advent of Code 2022: Learning Rust](https://blog.duijzer.com/posts/advent-of-code-2022-learning-rust/)
 * [Chaos Engineering - Part 1: Simmy, chaos in code](https://blog.duijzer.com/posts/chaos-engineering-part-1-simmy/)
