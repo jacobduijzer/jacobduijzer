@@ -40,10 +40,10 @@ I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and 
 
 * [Chaos Engineering: Unleash the Monkeys (JetBrains .NET Days 2022)](https://www.youtube.com/watch?v=3ycHJwx0Itg)
 * [Managing a .NET Service with Blazor, on Windows and Linux](https://medium.com/team-rockstars-it/managing-a-net-service-with-blazor-on-windows-and-linux-c54337ef1d07)
-* [CHAOS ENGINEERING MET SIMMY & POLLY](https://www.teamrockstars.nl/developers/tech-burst/chaos-engineering-met-simmy-polly/)
+* [CHAOS ENGINEERING MET SIMMY & POLLY](https://www.teamrockstars.nl/kennisbank/chaos-engineering-met-simmy-polly/)
 * [Dutch SDN Cast Rebooted 203 met Jacob Duijzer over Chaos engineering met Simmy en Polly
 ](https://www.youtube.com/watch?v=YXq9PTq-2Dw&list=PLC5P51a_60YH91NE65bmUXgVxPsfCaxtC&index=7)
-* [SPECIFICATION BY EXAMPLE](https://www.teamrockstars.nl/on-demand/specification-by-example/)
+* [SPECIFICATION BY EXAMPLE](https://www.youtube.com/watch?v=9BJZFnIo7B0&t=2s)
 
 ![](https://komarev.com/ghpvc/?username=jacobduijzer&color=blue)
 
