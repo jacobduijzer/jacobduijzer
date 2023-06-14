@@ -5,7 +5,6 @@
 
 ### About me
 
-I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and sharing knowledge. I am working for [Team Rockstars IT](https://www.teamrockstars.nl) as an IT consultant, focussing on engineering practices. I like to learn new technologies and to share knowledge with others. I am especially happy when I can work together with a team, helping them grow. 
 As an Agile Coach and enabling team lead with over 20 years of experience as a software engineer, I am uniquely positioned to help teams, individuals, and organizations improve. I bring a deep understanding of technology and a broad technical knowledge, enabling me to guide teams in embracing agile methodologies, achieving their goals, and leveraging technology to their advantage.
 
 I actively support personal growth, helping team members identify their strengths and facilitating the development of new technical skills. Through coaching, mentoring, and constructive feedback, I foster a culture of continuous learning and improvement, both in terms of agile practices and technological advancements.
