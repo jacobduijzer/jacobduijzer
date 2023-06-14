@@ -6,6 +6,13 @@
 ### About me
 
 I am Jacob Duijzer, a Software Engineer with a passion for quality, testing and sharing knowledge. I am working for [Team Rockstars IT](https://www.teamrockstars.nl) as an IT consultant, focussing on engineering practices. I like to learn new technologies and to share knowledge with others. I am especially happy when I can work together with a team, helping them grow. 
+As an Agile Coach and enabling team lead with over 20 years of experience as a software engineer, I am uniquely positioned to help teams, individuals, and organizations improve. I bring a deep understanding of technology and a broad technical knowledge, enabling me to guide teams in embracing agile methodologies, achieving their goals, and leveraging technology to their advantage.
+
+I actively support personal growth, helping team members identify their strengths and facilitating the development of new technical skills. Through coaching, mentoring, and constructive feedback, I foster a culture of continuous learning and improvement, both in terms of agile practices and technological advancements.
+
+In my role as an enabling team lead, I create an environment where teams can thrive. I facilitate the exchange of technical knowledge and experiences between teams, ensure clear communication, and foster collaboration across different disciplines. I actively contribute to the development of agile practices and processes at the organizational level, aiming to enhance overall performance and effectiveness.
+
+With my dedication to improving teams, individuals, and organizations, combined with my extensive software engineering experience and broad technical knowledge, I am well-equipped to drive successful agile transformations. By emphasizing growth, collaboration, and continuous improvement, I empower teams to unleash their full potential and achieve exceptional results, both in terms of agile methodologies and leveraging technology.
 
 ### My latest blog posts
 * [Architectuur design met het C4-model (Dutch)](https://blog.duijzer.com/nl/posts/architectuur-design-met-c4model/)
