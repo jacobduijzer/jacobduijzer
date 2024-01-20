@@ -44,8 +44,8 @@ With my dedication to improving teams, individuals, and organizations, combined 
 
 ### External talks & publications
 
-* [Living in your own bubble: From Legacy To Domain Driven Design (DDD Europe 2023](https://www.youtube.com/watch?v=7Qa7BDmJcME&feature=youtu.be)
-* [Team topologies, an introduction (DDD Europe 2023 Lightning Talk](https://www.youtube.com/watch?v=LFetVTVJLJU)
+* [Living in your own bubble: From Legacy To Domain Driven Design (DDD Europe 2023)](https://www.youtube.com/watch?v=7Qa7BDmJcME&feature=youtu.be)
+* [Team topologies, an introduction (DDD Europe 2023 Lightning Talk)](https://www.youtube.com/watch?v=LFetVTVJLJU)
 * [Chaos Engineering: Unleash the Monkeys (JetBrains .NET Days 2022)](https://www.youtube.com/watch?v=3ycHJwx0Itg)
 * [Managing a .NET Service with Blazor, on Windows and Linux](https://medium.com/team-rockstars-it/managing-a-net-service-with-blazor-on-windows-and-linux-c54337ef1d07)
 * [CHAOS ENGINEERING MET SIMMY & POLLY](https://www.teamrockstars.nl/kennisbank/chaos-engineering-met-simmy-polly/)
