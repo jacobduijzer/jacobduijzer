@@ -44,6 +44,7 @@ With my dedication to improving teams, individuals, and organizations, combined 
 
 ### External talks & publications
 
+* [The Road to Faster Flow Is Paved with Missteps: A Retrospective (Fast Flow Conf NL 2025](https://youtu.be/o-vPZ8Vky2U)
 * [Living in your own bubble: From Legacy To Domain Driven Design (DDD Europe 2023)](https://www.youtube.com/watch?v=7Qa7BDmJcME&feature=youtu.be)
 * [Team topologies, an introduction (DDD Europe 2023 Lightning Talk)](https://www.youtube.com/watch?v=LFetVTVJLJU)
 * [Chaos Engineering: Unleash the Monkeys (JetBrains .NET Days 2022)](https://www.youtube.com/watch?v=3ycHJwx0Itg)
